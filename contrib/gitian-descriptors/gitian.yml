@@ -20,7 +20,7 @@ packages:
 - "libpng12-dev"
 reference_datetime: "2011-01-30 00:00:00"
 remotes:
-- "url": "https://github.com/junipercoin-project/junipercoin.git"
+- "url": "https://github.com/konab15/junipercoin.git"
   "dir": "junipercoin"
 files:
 - "miniupnpc-1.9.20140401.tar.gz"
